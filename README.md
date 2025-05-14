@@ -7,6 +7,7 @@
 - 👋 Hi, I’m **@Steamgx**
 - 👀 I’m passionate about **building creative solutions** through code  
 - 🌱 Currently diving deep into **Software Engineering**  
+- 🎓 **Moringa School Graduate** – trained in full-stack development and real-world problem solving  
 - 💞️ I’m eager to **collaborate** on innovative projects and help **refactor or improve existing codebases**  
 - 😄 Pronouns: **steam** (because I run hot with ideas!)  
 - ⚡ Fun Fact: The name **Steamgx**? Born from a literal *burn by steam*—no kidding.
@@ -24,8 +25,15 @@
 
 ---
 
+### 🎓 Education
+- 🏫 **Moringa School** – *Software Engineering Graduate*  
+- 💡 Focused on building scalable web apps, writing clean code, and working in agile teams
+
+---
+
 ### 🚀 Let's Connect
-📫 Reach me at: **bmuraya646@gmail.com**  
+📫 Email: **bmuraya646@gmail.com**  
+📞 Phone: **0769 998 718**  
 💬 Always open to conversations about **tech, innovation, and cool side projects**.  
 
 ---
