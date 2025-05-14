@@ -37,14 +37,6 @@
 💬 Always open to conversations about **tech, innovation, and cool side projects**.  
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Steamgx&show_icons=true&theme=radical" alt="Steamgx's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steamgx&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### ✨ Motto
