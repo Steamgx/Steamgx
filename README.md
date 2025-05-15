@@ -51,6 +51,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Steamgx&theme=radical)](https://git.io/streak-stats)
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steamgx&layout=compact&theme=radical)](https://github.com/Steamgx)
+
 ### ✨ Motto
 > *Code like steam: invisible, powerful, and always pushing forward.*
 
