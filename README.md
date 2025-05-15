@@ -41,8 +41,7 @@
 
 ---
 
-### 📈 GitHub Stats
-[![Steamgx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steamgx&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Steamgx)
+
 
 ### 🗓️ Recent Activity
 [![Steamgx's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Steamgx&theme=radical)](https://github.com/Steamgx)  
